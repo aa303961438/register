@@ -5,8 +5,10 @@
   },
   "record": {
     "A": ["8.148.204.169"],
+    "proxied": false,
     "CNAME": {
       "www": "wu.is-a.dev"
     }
   }
-}  
+}
+
